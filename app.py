@@ -25,7 +25,7 @@ romantic_html = """
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
 
 <div id="main-frame">
-    <h1 class="question">Malem minggu jatah ga?</h1>
+    <h1 class="question">Kamu kangen aku ga?</h1>
 
     <div id="container">
         <div id="button-wrapper">
@@ -145,3 +145,4 @@ romantic_html = """
 """
 
 components.html(romantic_html, height=650)
+
