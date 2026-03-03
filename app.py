@@ -29,7 +29,7 @@ romantic_html = """
 
     <div id="container">
         <div id="button-wrapper">
-            <button id="yesBtn" class="btn-style" onclick="celebrate()">Mau!</button>
+            <button id="yesBtn" class="btn-style" onclick="celebrate()">Iya!</button>
             <button id="noBtn" class="btn-style" onmouseover="moveButton()" onclick="moveButton()">Gak</button>
         </div>
     </div>
@@ -145,4 +145,5 @@ romantic_html = """
 """
 
 components.html(romantic_html, height=650)
+
 
